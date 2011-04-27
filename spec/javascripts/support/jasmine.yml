@@ -1,0 +1,7 @@
+src_files:
+  - javascripts/*.js
+stylesheets:
+helpers:
+spec_files:
+src_dir:
+spec_dir:
